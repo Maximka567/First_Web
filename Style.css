@@ -1,0 +1,41 @@
+* {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+body{
+    margin: 0
+}
+div {
+    color: #ffffff;
+    background: linear-gradient(to bottom, #1f1f1f, #757575);
+    height: 750px;
+}
+div h1 {
+    font-size: 500%;
+    padding-top: 250px;
+}
+h3 {
+    font-size: 200%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+p{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+img{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+div.Last {
+
+    color: #9e9e9e;
+    background:#5e5e5e;
+    height: 100px;
+}
+div.Last h2 {
+    font-size: 150%;
+    padding-top: 35px;
+}
+p.IWant{
+    padding-bottom: 70px;
+}
